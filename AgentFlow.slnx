@@ -1,6 +1,11 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/AgenteFlow.csproj" />
+    <Project Path="src/CustomCoreAgentLib/CustomCoreAgentLib.csproj" />
   </Folder>
-    Id="78a39974-9e91-41fa-b85d-787c86bdc7ce" /&gt;
+  <Folder Name="/src/1 - Simple Example/">
+    <Project Path="src/SimpleFlow/SimpleFlow.csproj" />
+  </Folder>
+  <Folder Name="/src/2 - ExecutorsExample/">
+    <Project Path="src/ExecutorsExample/ExecutorsExample.csproj" />
+  </Folder>
 </Solution>
